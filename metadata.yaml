@@ -1,0 +1,47 @@
+_repo: Portugallian-keisari-b-Kertomus-Vermlannista_72888
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Krohn, Helmi
+    aliases:
+    - Setälä, Helmi
+    - Setala, Helmi
+    - Helmi Setälä
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '31724'
+    url: http://www.gutenberg.org/2009/agents/31724
+    wikipedia: https://fi.wikipedia.org/wiki/Helmi_Krohn
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerlof, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    - Lagerloef, Selma
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Selma_Lagerlöf
+    - https://sv.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
+    - https://fi.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
+description: ''
+gutenberg_issued: '2024-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72888'
+language: fi
+pgterms:marc905: 20240201014311lagerlf
+pgterms:marc906: '1914'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Portugallian keisari : $b Kertomus Vermlannista'
+url: http://www.gutenberg.org/ebooks/72888
